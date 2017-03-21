@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\95b38a06814536ad63f051daf475aa913190b458\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_cfbfc79592e03010eea742b8b6298b6b60db9b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\3e821586bd789f987b3afc1c5738245570f0f8c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_c7498b7523d58024e34f3cc52966249ef1a2e60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\ffd6bfdc556a08773013578313ed89f785f6fa1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_1f4e85859ca7f813616a8993e53465648fc81f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\d41aa7e9f84ef9a5f78dc0695a8154b40d0a36e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_2f511dcf4239d485eb668bb4de2b9307c9d54324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\12d45be574f05ba8d55bb9be62c431b8701bc665\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_592695437c76e064e241b1e541b6ba49d1d58a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\50985d3d7e271280948cd19ced202c9bc0657138\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_597436c055fe501db1a0064d305aa12746c0f184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\0853136923d78ac7e4a58bd21a7ba1e1577a6554\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_5a6f9e7fccd4da1ec96056b557b133f4008783b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\12d45be574f05ba8d55bb9be62c431b8701bc665\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f99f77bc6e0b36c52a7ec6e9a4d09b86b66603d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\3e821586bd789f987b3afc1c5738245570f0f8c9\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2f792a0af92f2476a71cd63c7a5647f886a50d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\72a80607121df9de49e91326805baced476b856a\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_201ad78fd7a4f20043b755179b99ebd7585259f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_67f46cc6c1916e43171e518a40912cc03621c974.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_School\Camera2Video\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e1ba43295522e8602427faa6ecff58d1db27b0f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\ffd6bfdc556a08773013578313ed89f785f6fa1f\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_84e8db70cce3954653b52ba1cb3ee9a515ddfe43.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\_School\Camera2Video\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2371b2615d5cfa431ae9ebce7ff15d2f2f7b6b6">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a29d03d1a98133cd3201ee302819a37901c32f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\f61ca522933ffa8867cfa91acabac7152a1d5bbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_f5a2b9a3132d4f8663a26c7788d86dbbb9c0ac41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\95b38a06814536ad63f051daf475aa913190b458\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_ce1dd848cc6ce7b7dac4128385f7e5177acc81d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\ae2565bc6f54fa2d7f3d7d0e9ccfc84bcbf140a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_5c392518b986772c8e9c008eb001e6f688621444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\5055a9ca7fb775d40e37f5fe68ba00a26f6055ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_597f116cd7eb1eef84e165c3949ce451dea04db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\f61ca522933ffa8867cfa91acabac7152a1d5bbd\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_c648e25b1e79a02321bce4931bdc5fe6cdc23a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reuven\.android\build-cache\72a80607121df9de49e91326805baced476b856a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\_School\Camera2Video\Application\build\intermediates\pre-dexed\debug\classes_189a25e1762f06e4ba1ab9a68ee0ff6b7dfe9fa1.jar" />
+    </item>
+
+</items>

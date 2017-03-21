@@ -1,0 +1,7 @@
+#Tue Mar 21 11:17:18 IST 2017
+base.0=E\:\\_School\\Camera2Video\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a29d03d1a98133cd3201ee302819a37901c32f26
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\_School\\Camera2Video\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e1ba43295522e8602427faa6ecff58d1db27b0f2\\classes.dex
+base.1=E\:\\_School\\Camera2Video\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e1ba43295522e8602427faa6ecff58d1db27b0f2
+file.0=E\:\\_School\\Camera2Video\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a29d03d1a98133cd3201ee302819a37901c32f26\\classes.dex
